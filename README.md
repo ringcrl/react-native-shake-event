@@ -19,7 +19,7 @@ $ npm install @chenng/react-native-shake-event --save
 
 ### Linking Libraries
 
-`react-native link react-native-shake-event`
+`react-native link @chenng/react-native-shake-event`
 
 ## Usage
 
