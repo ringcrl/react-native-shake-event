@@ -1,0 +1,56 @@
+{
+  "name": "@chenng/react-native-shake-event",
+  "version": "1.0.0",
+  "description": "Add shake event to your React Native app",
+  "main": "js/index.js",
+  "files": [
+    "android",
+    "ios",
+    "js",
+    "react-native-shake-event.podspec"
+  ],
+  "keywords": [
+    "android",
+    "ios",
+    "native",
+    "react",
+    "react-component",
+    "react-native",
+    "react-native-component",
+    "shake",
+    "shake-event",
+    "shake-event-android",
+    "shake-event-ios"
+  ],
+  "author": "Jadson Lourenco <jadsonlourenco@gmail.com>",
+  "contributors": [
+    {
+      "name": "Jadson Lourenco",
+      "email": "jadsonlourenco@gmail.com"
+    },
+    {
+      "name": "Björn Orri Sæmundsson",
+      "email": "bjornorri@gmail.com"
+    },
+    {
+      "name": "Richard Gill",
+      "email": "richard@rgill.co.uk"
+    },
+    {
+      "name": "Mark Miyashita",
+      "email": "negativetwelve@gmail.com"
+    }
+  ],
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jadsonlourenco/react-native-shake-event.git"
+  },
+  "bugs": {
+    "url": "https://github.com/jadsonlourenco/react-native-shake-event/issues"
+  },
+  "homepage": "https://github.com/jadsonlourenco/react-native-shake-event",
+  "dependencies": {
+    "invariant": "^2.2.2"
+  }
+}
