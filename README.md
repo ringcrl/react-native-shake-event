@@ -4,7 +4,7 @@ author: Jadson Lourenco <jadsonlourenco@gmail.com>
 
 homepage: <https://github.com/jadsonlourenco/react-native-shake-event>
 
-Notes: source is unavailable directly, republish it...
+Notes: Source can not be used directly, republish it...
 
 ---
 
@@ -53,7 +53,7 @@ Stop to listening the shake event, and is recommended to prevent memory leak.
 
 ## Issues
 
-1. On *debug mode* this event also handle the **DevMenu**, but works fine on *production*.
+On *debug mode* this event also handle the **DevMenu**, but works fine on *production*.
 
 ## License
 

@@ -44,12 +44,8 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/jadsonlourenco/react-native-shake-event.git"
+    "url": "https://github.com/ringcrl/react-native-shake-event.git"
   },
-  "bugs": {
-    "url": "https://github.com/jadsonlourenco/react-native-shake-event/issues"
-  },
-  "homepage": "https://github.com/jadsonlourenco/react-native-shake-event",
   "dependencies": {
     "invariant": "^2.2.2"
   }
