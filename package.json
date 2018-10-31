@@ -48,5 +48,6 @@
   },
   "dependencies": {
     "invariant": "^2.2.2"
-  }
+  },
+  "homepage" : "https://github.com/ringcrl/react-native-shake-event.git"
 }
